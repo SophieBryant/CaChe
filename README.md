@@ -25,7 +25,7 @@
 
 ### Carthage
 
-在工程内 Cartfile 文件中天机：
+在工程内 Cartfile 文件中添加：
 
 ```
   github “ hyperoslo / Cache ” 
